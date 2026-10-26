@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_url": "https://cdn.jsdelivr.net/gh/v3coder/stickers@main",
+  "stickers": [
+    {
+      "name": "owo",
+      "category": "reaction",
+      "url": "reaction/owo.webp"
+    },
+    {
+      "name": "cat_thumbsup",
+      "category": "meme",
+      "url": "meme/cat_thumbsup.webp"
+    }
+  ]
+}
