@@ -18,14 +18,29 @@
       "url": "reaction/wow.tgs"
     },
     {
-      "name": "cry",
+      "name": "think",
       "category": "reaction",
-      "url": "reaction/cry.tgs"
+      "url": "reaction/think.tgs"
+    },
+    {
+      "name": "sleep",
+      "category": "reaction",
+      "url": "reaction/sleep.tgs"
+    },
+    {
+      "name": "sick",
+      "category": "reaction",
+      "url": "reaction/sick.tgs"
     },
     {
       "name": "tired",
       "category": "reaction",
       "url": "reaction/tired.tgs"
+    },
+    {
+      "name": "cry",
+      "category": "reaction",
+      "url": "reaction/cry.tgs"
     },
     {
       "name": "angry",
