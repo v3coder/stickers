@@ -3,9 +3,9 @@
   "base_url": "https://cdn.jsdelivr.net/gh/v3coder/stickers@main",
   "stickers": [
     {
-      "name": "haha",
+      "name": "laugh",
       "category": "reaction",
-      "url": "reaction/haha.tgs"
+      "url": "reaction/laugh.tgs"
     },
     {
       "name": "lovely",
