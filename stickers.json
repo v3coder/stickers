@@ -13,14 +13,24 @@
       "url": "reaction/lovely.tgs"
     },
     {
-      "name": "angry",
+      "name": "wow",
       "category": "reaction",
-      "url": "reaction/angry.tgs"
+      "url": "reaction/wow.tgs"
     },
     {
       "name": "cry",
       "category": "reaction",
       "url": "reaction/lovely.cry"
+    },
+    {
+      "name": "tired",
+      "category": "reaction",
+      "url": "reaction/tired.tgs"
+    },
+    {
+      "name": "angry",
+      "category": "reaction",
+      "url": "reaction/angry.tgs"
     }
   ]
 }
