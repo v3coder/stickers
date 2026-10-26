@@ -3,14 +3,24 @@
   "base_url": "https://cdn.jsdelivr.net/gh/v3coder/stickers@main",
   "stickers": [
     {
-      "name": "owo",
+      "name": "haha",
       "category": "reaction",
-      "url": "reaction/owo.webp"
+      "url": "reaction/haha.tgs"
     },
     {
       "name": "lovely",
       "category": "reaction",
-      "url": "reaction/lovely.webp"
+      "url": "reaction/lovely.tgs"
+    },
+    {
+      "name": "angry",
+      "category": "reaction",
+      "url": "reaction/angry.tgs"
+    },
+    {
+      "name": "cry",
+      "category": "reaction",
+      "url": "reaction/lovely.cry"
     }
   ]
 }
